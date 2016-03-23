@@ -1,47 +1,95 @@
-EXTINF:-1,Bein Sport HD1
-http://bit.do/morocco-algerie-iptvsportt1
-#EXTINF:-1,Bein Sport HD2
-http://bit.do/morocco-algerie-iptvsportt2
-#EXTINF:-1,Bein Sport HD3
-http://bit.do/morocco-algerie-iptvsportt3
-#EXTINF:-1,Bein Sport HD4
-http://bit.do/morocco-algerie-iptvsportt4
-#EXTINF:-1,Bein Sport HD5
-http://bit.do/morocco-algerie-iptvsportt5
-#EXTINF:-1,Bein Sport HD6
-http://bit.do/morocco-algerie-iptvsportt6
-#EXTINF:-1,Bein Sport HD7
-http://bit.do/morocco-algerie-iptvsportt7
-#EXTINF:-1,Bein Sport HD8
-http://bit.do/morocco-algerie-iptvsportt8
-#EXTINF:-1,Bein Sport HD9
-http://bit.do/morocco-algerie-iptvsportt9
-#EXTINF:-1,Bein Sport HD10
-http://bit.do/morocco-algerie-iptvsportt10
-#EXTINF:-1,Bein Sport HD11
-http://bit.do/morocco-algerie-iptvsportt11
-#EXTINF:-1,Bein Sport HD12
-http://bit.do/morocco-algerie-iptvsportt12
-#EXTINF:-1,bein Sport SD1
-http://bit.do/morocco-algerie-iptvsportt13
-#EXTINF:-1,Bein Sport SD2
-http://bit.do/morocco-algerie-iptvsportt14
-#EXTINF:-1,Bein Sport SD3
-http://bit.do/morocco-algerie-iptvsportt15
-#EXTINF:-1,Bein Sport SD4
-http://bit.do/morocco-algerie-iptvsportt16
-http://bit.do/morocco-algerie-iptvsportt17
-#EXTINF:-1,Bein Sport SD6
-http://bit.do/morocco-algerie-iptvsportt18
-#EXTINF:-1,Bein Sport SD7
-http://bit.do/morocco-algerie-iptvsportt19
-#EXTINF:-1,Bein Sport SD8
-http://bit.do/morocco-algerie-iptvsportt20
-#EXTINF:-1,Bein Sport SD9
-http://bit.do/morocco-algerie-iptvsportt21
-#EXTINF:-1,Bein Sport SD10
-http://bit.do/morocco-algerie-iptvsportt22
-#EXTINF:-1,Bein Sport SD11
-http://bit.do/morocco-algerie-iptvsportt23
-#EXTINF:-1,Bein Sport SD12
-http://bit.do/morocco-algerie-iptvsportt24
+#EXTM3U
+#EXTINF:0,Bein Movie 1
+rtmp://str1.ddns.me/iptv/ch520?code=20001339086638
+#EXTINF:0,Bein Movie 2
+rtmp://str1.ddns.me/iptv/ch519?code=20001339086638
+#EXTINF:0,Bein Movie 3
+rtmp://str1.ddns.me/iptv/ch518?code=20001339086638
+#EXTINF:0,Bein Sport
+rtmp://str1.ddns.me/iptv/ch400?code=20001339086638
+#EXTINF:0,Bein Sports News
+rtmp://str1.ddns.me/iptv/ch110?code=20001339086638
+#EXTINF:0,BeInSport 1 HD
+rtmp://str1.ddns.me/iptv/ch111?code=20001339086638
+#EXTINF:0,BeInSport 2 HD
+rtmp://str1.ddns.me/iptv/ch112?code=20001339086638
+#EXTINF:0,BeInSport 3 HD
+rtmp://str1.ddns.me/iptv/ch113?code=20001339086638
+#EXTINF:0,BeInSport 4 HD
+rtmp://str1.ddns.me/iptv/ch114?code=20001339086638
+#EXTINF:0,BeInSport 5 HD
+rtmp://str1.ddns.me/iptv/ch115?code=20001339086638
+#EXTINF:0,BeInSport 6 HD
+rtmp://str1.ddns.me/iptv/ch116?code=20001339086638
+#EXTINF:0,BeInSport 7 HD
+rtmp://str1.ddns.me/iptv/ch117?code=20001339086638
+#EXTINF:0,BeInSport 8 HD
+rtmp://str1.ddns.me/iptv/ch118?code=20001339086638
+#EXTINF:0,BeInSport 9 HD
+rtmp://str1.ddns.me/iptv/ch510?code=20001339086638
+#EXTINF:0,BeInSport 10 HD
+rtmp://str1.ddns.me/iptv/ch511?code=20001339086638
+#EXTINF:0,BeInSport 11 HD
+rtmp://str1.ddns.me/iptv/ch512?code=20001339086638
+#EXTINF:0,BeInSport 12 HD
+rtmp://str1.ddns.me/iptv/ch513?code=20001339086638
+#EXTINF:0,BeInSport 13 HD
+rtmp://str1.ddns.me/iptv/ch514?code=20001339086638
+#EXTINF:0,BeInSport 14 HD
+rtmp://str1.ddns.me/iptv/ch515?code=20001339086638
+#EXTINF:0,BeInSport 15 HD
+rtmp://str1.ddns.me/iptv/ch516?code=20001339086638
+#EXTINF:0,BeInSport 16 HD
+rtmp://str1.ddns.me/iptv/ch517?code=20001339086638
+#EXTINF:0,BeInSport 1 FR
+rtmp://str1.ddns.me/iptv/ch119?code=20001339086638
+#EXTINF:0,BeInSport 2 FR
+rtmp://str1.ddns.me/iptv/ch120?code=20001339086638
+#EXTINF:0,BeInSport 3 FR
+rtmp://str1.ddns.me/iptv/ch206?code=20001339086638
+#EXTINF:0,Bein Movie 2
+rtmp://str1.ddns.me/iptv/ch519?code=20001339086638
+#EXTINF:0,Bein Movie 3
+rtmp://str1.ddns.me/iptv/ch518?code=20001339086638
+#EXTINF:0,Bein Sport
+rtmp://str1.ddns.me/iptv/ch400?code=20001339086638
+#EXTINF:0,Bein Sports News
+rtmp://str1.ddns.me/iptv/ch110?code=20001339086638
+#EXTINF:0,BeInSport 1 HD
+rtmp://str1.ddns.me/iptv/ch111?code=20001339086638
+#EXTINF:0,BeInSport 2 HD
+rtmp://str1.ddns.me/iptv/ch112?code=20001339086638
+#EXTINF:0,BeInSport 3 HD
+rtmp://str1.ddns.me/iptv/ch113?code=20001339086638
+#EXTINF:0,BeInSport 4 HD
+rtmp://str1.ddns.me/iptv/ch114?code=20001339086638
+#EXTINF:0,BeInSport 5 HD
+rtmp://str1.ddns.me/iptv/ch115?code=20001339086638
+#EXTINF:0,BeInSport 6 HD
+rtmp://str1.ddns.me/iptv/ch116?code=20001339086638
+#EXTINF:0,BeInSport 7 HD
+rtmp://str1.ddns.me/iptv/ch117?code=20001339086638
+#EXTINF:0,BeInSport 8 HD
+rtmp://str1.ddns.me/iptv/ch118?code=20001339086638
+#EXTINF:0,BeInSport 9 HD
+rtmp://str1.ddns.me/iptv/ch510?code=20001339086638
+#EXTINF:0,BeInSport 10 HD
+rtmp://str1.ddns.me/iptv/ch511?code=20001339086638
+#EXTINF:0,BeInSport 11 HD
+rtmp://str1.ddns.me/iptv/ch512?code=20001339086638
+#EXTINF:0,BeInSport 12 HD
+rtmp://str1.ddns.me/iptv/ch513?code=20001339086638
+#EXTINF:0,BeInSport 13 HD
+rtmp://str1.ddns.me/iptv/ch514?code=20001339086638
+#EXTINF:0,BeInSport 14 HD
+rtmp://str1.ddns.me/iptv/ch515?code=20001339086638
+#EXTINF:0,BeInSport 15 HD
+rtmp://str1.ddns.me/iptv/ch516?code=20001339086638
+#EXTINF:0,BeInSport 16 HD
+rtmp://str1.ddns.me/iptv/ch517?code=20001339086638
+#EXTINF:0,BeInSport 1 FR
+rtmp://str1.ddns.me/iptv/ch119?code=20001339086638
+#EXTINF:0,BeInSport 2 FR
+rtmp://str1.ddns.me/iptv/ch120?code=20001339086638
+#EXTINF:0,BeInSport 3 FR
+rtmp://str1.ddns.me/iptv/ch206?code=20001339086638
